@@ -8,3 +8,4 @@
 
 5. Locations
 
+6. Status 
