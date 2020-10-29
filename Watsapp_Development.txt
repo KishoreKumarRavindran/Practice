@@ -9,3 +9,5 @@
 5. Locations
 
 6. Status 
+
+7. Video call
